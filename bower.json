@@ -1,0 +1,21 @@
+{
+  "name": "docker-control",
+  "version": "0.0.0",
+  "authors": [
+    "garysmi <garysmi@cit.ie>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "angularAMD": "~0.2.1",
+    "bootstrap": "~3.3.4"
+  }
+}
