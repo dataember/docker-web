@@ -11,9 +11,11 @@ Install bower globally (as root/administrator):
 
 npm install -g bower
 
-Change into the top-level directory containing package.json and run the command:
+Change into the top-level directory containing package.json and run the commands:
 
 npm install 
+
+bower install
 
 ## Grunt ##
 
