@@ -47,7 +47,7 @@ To change this set the following environment variables:
 
     DOCKER_CONTROL_ADDRESS=0.0.0.0 to bind to all interfaces or specify a particular address
 
-    DOCKET_CONTROL_PORT=9001 to listen on a particular port
+    DOCKER_CONTROL_PORT=9001 to listen on a particular port
 
 
 
