@@ -7,6 +7,10 @@ Install  grunt-cli globally  (as root/administrator):
 
 npm install -g grunt-cli
 
+Install bower globally (as root/administrator):
+
+npm install -g bower
+
 Change into the top-level directory containing package.json and run the command:
 
 npm install 
