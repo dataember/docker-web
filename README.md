@@ -5,7 +5,7 @@ Install nodejs/npm and make sure node and npm command are in your path.
 
 Install  grunt-cli globally  (as root/administrator):
 
-npm install grunt-cli
+npm install -g grunt-cli
 
 Change into the top-level directory containing package.json and run the command:
 
